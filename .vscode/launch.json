@@ -1,7 +1,7 @@
 {
 	"version": "0.2.0",
 	"configurations": [
-		
+
 		{
 			"name": "Launch tools/generate",
 			"type": "go",
@@ -46,7 +46,7 @@
 			],
 			"env": {
 				"GOTOOLCHAIN": "local",
-				"VSCODE_GO_IN_TEST": "1",
+				"VSCODE_GO_IN_TEST": "1",package/json
 				"MOCHA_TIMEOUT": "999999"
 			},
 			"outFiles": [
